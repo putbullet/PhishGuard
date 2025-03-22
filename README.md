@@ -70,44 +70,24 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 
----
+```
 
-💻 Usage
+## 💻 Usage
 Note: Usage documentation will be provided as implementation progresses. The project is currently in early development stage.
 
-🔄 Roadmap
+## 🔄 Roadmap
 
- Complete core analysis engine
- Improve NLP model accuracy
- Implement GUI interface
- Add support for email authentication protocols (DKIM, SPF, DMARC)
- Develop batch processing functionality
- Create API for integration with email clients
- Implement user feedback mechanism for continuous improvement
- Add support for more languages
-
-
-🤝 Contributing
-Contributions to PhishGuard are welcome! Although the project is in early stage, we appreciate help in:
-
-Improving detection algorithms
-Expanding the dataset of phishing samples
-Enhancing documentation
-Bug fixes and feature suggestions
-
-If you'd like to contribute, please:
-
-Fork the repository
-Create a feature branch (git checkout -b feature/amazing-feature)
-Commit your changes (git commit -m 'Add some amazing feature')
-Push to the branch (git push origin feature/amazing-feature)
-Open a Pull Request
+ - Complete core analysis engine
+ - Improve NLP model accuracy
+ - Implement GUI interface
+ - Add support for email authentication protocols (DKIM, SPF, DMARC)
+ - Develop batch processing functionality
+ - Create API for integration with email clients
+ - Implement user feedback mechanism for continuous improvement
+ - Add support for more languages
 
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-📞 Contact
+## 📞 Contact
 For inquiries about PhishGuard, please contact [soulaimanettabaas@gmail.com].
 
 PhishGuard - Turning the tide against email-based cyber threats

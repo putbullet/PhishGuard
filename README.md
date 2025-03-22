@@ -61,7 +61,7 @@ These metrics will continue to improve as we refine our models and algorithms.
 ```bash
 # Clone the repository
 git clone https://github.com/putbullet/PishGuard.git
-cd phishguard
+cd PishGuard
 
 # Create a virtual environment
 python -m venv venv

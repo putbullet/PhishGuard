@@ -71,7 +71,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 ```
-
+---
 ## 💻 Usage
 Note: Usage documentation will be provided as implementation progresses. The project is currently in early development stage.
 
@@ -88,6 +88,6 @@ Note: Usage documentation will be provided as implementation progresses. The pro
 
 
 ## 📞 Contact
-For inquiries about PhishGuard, please contact [soulaimanettabaas@gmail.com].
+For inquiries about PhishGuard, please contact soulaimanettabaas@gmail.com
 
 PhishGuard - Turning the tide against email-based cyber threats

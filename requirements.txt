@@ -8,11 +8,6 @@ transformers==4.35.2
 torch>=2.0.1
 scikit-learn>=1.3.0
 
-# GUI
-PyQt6==6.5.3
-# Or alternatively if using Tkinter which is in Python standard library
-# No additional requirement needed for Tkinter
-
 # Parsing and Processing
 lxml==4.9.3
 html5lib==1.1

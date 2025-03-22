@@ -70,6 +70,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 # Install dependencies
 pip install -r requirements.txt
 
+```
 
 💻 Usage
 Note: Usage documentation will be provided as implementation progresses. The project is currently in early development stage.

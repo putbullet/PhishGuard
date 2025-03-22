@@ -60,7 +60,7 @@ These metrics will continue to improve as we refine our models and algorithms.
 
 ```bash
 # Clone the repository
-git clone https://github.com/putbullet/phishguard.git
+git clone https://github.com/putbullet/PishGuard.git
 cd phishguard
 
 # Create a virtual environment

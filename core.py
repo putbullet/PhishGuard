@@ -32,7 +32,7 @@ logging.basicConfig(
 )
 
 # VirusTotal API Key
-VT_API_KEY = "4689721cea79ad1e6bd710f3a6e58b1ced1dc839a7be1485a8cb200887670a2d"
+VT_API_KEY = "YOUR_VIRUSTOTAL_API_KEY"
 VT_URL = "https://www.virustotal.com/api/v3/urls"
 
 # Load phishing detection model

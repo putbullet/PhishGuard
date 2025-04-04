@@ -48,14 +48,14 @@ except Exception as e:
 # GUI-related variables and setup
 uploaded_eml_files = []
 OUTPUT_PATH = Path(__file__).parent
-ASSETS_PATH = OUTPUT_PATH / Path(r"/home/putbullet/Desktop/Codes/PG/Codes/frame0")
+ASSETS_PATH = OUTPUT_PATH / "frame0"
 
 def relative_to_assets(path: str) -> Path:
     return ASSETS_PATH / Path(path)
 
 def open_settings():
     window.destroy()
-    subprocess.Popen([sys.executable, "/home/putbullet/Desktop/Codes/PG/Codes/PgSettings/gui.py"])
+    subprocess.Popen([sys.executable, "/home/putbullet/Desktop/Codes/PG/Codes/PgSettings/gui.py"]) #will be added later here in the repository
 
 def extract_headers(msg):
     """Extract and analyze email headers"""

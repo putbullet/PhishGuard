@@ -1,3 +1,9 @@
+# PhishGuard - Email Phishing Analysis Tool
+# Copyright (c) 2025 putbullet
+# MIT License - see LICENSE.md for details
+# https://github.com/putbullet/PhishGuard
+
+
 import email
 import os
 import requests
